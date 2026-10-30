@@ -15,6 +15,7 @@ public class Main {
             for (int x = 0; x < sizeBoard; x++) {
                 board[y][x] = "  ";
             }
+
         }
 
         int countMonster = sizeBoard * sizeBoard - sizeBoard - 5;
